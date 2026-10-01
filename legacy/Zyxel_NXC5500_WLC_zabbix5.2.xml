@@ -11,7 +11,7 @@
         <template>
             <template>HW Zyxel WLC Discovery</template>
             <name>HW Zyxel WLC Discovery</name>
-            <description>If you are interested, you can contact me and add a function, but I do not think that they are still particularly necessary for routine monitoring. priechodsk.dusan@gmail.com</description>
+            <description>Zyxel NXC WLC monitoring via SNMP. Legacy version for Zabbix 5.2, current version: https://github.com/DuprTECH/Zabbix-Zyxel-WLC-NXC5500 . Contact / custom work: info@duprtech.sk</description>
             <templates>
                 <template>
                     <name>Module ICMP Ping</name>
