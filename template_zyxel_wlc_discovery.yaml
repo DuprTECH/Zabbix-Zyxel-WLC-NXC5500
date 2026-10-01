@@ -15,7 +15,7 @@ zabbix_export:
         - LLD of WLC interfaces: traffic, errors, operational status
         
         Requirements: Zabbix 7.4+, SNMP enabled on the WLC, fping on the server/proxy.
-        Source: https://github.com/DuprTECH/Zyxel-NXC5500-WLAN-controller
+        Source: https://github.com/DuprTECH/Zabbix-Zyxel-WLC-NXC5500
         Contact / custom work: info@duprtech.sk
       groups:
         - name: 'Templates/Network devices'
