@@ -80,7 +80,7 @@ Want one of these sooner? Get in touch (see below).
 
 Need something extra? I can extend or customize this template for your company's needs, for example new metrics, triggers, dashboards, other Zyxel models or integration with your environment. Feel free to get in touch: 📧 [info@duprtech.sk](mailto:info@duprtech.sk)
 
-If this template saved you time and you're happy with my work, you can buy me a coffee ☕
+If this work makes sense to you, give the repo a ⭐ star or support me on Ko-fi ☕
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/duprtech)
 
